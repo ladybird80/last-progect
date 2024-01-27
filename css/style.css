@@ -1,0 +1,63 @@
+.header .nav-link {
+  opacity: 1;
+}
+.nav-link:hover {
+  opacity: 0.5;
+}
+.search {
+  width: 100px;
+}
+.header {
+  min-height: 500px;
+  background: url(../images/australia.jpg);
+  background-size: cover;
+}
+.australia-text p {
+  font-size: 40px;
+}
+h1,
+.video-text h3 {
+  font-family: cursive;
+}
+.where-to .form-group {
+  margin-left: 12%;
+}
+.where-to input {
+  height: 30px;
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.top-main-text p,
+.main-middle p {
+  opacity: 0.7;
+}
+.main-img-text {
+  margin-top: 40%;
+}
+.card {
+  border: none;
+}
+main .main-middle {
+  width: 100%;
+  min-height: 100px;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../images/newsletter-bc.jpg) no-repeat center center;
+  background-size: cover;
+}
+.main-middle p {
+  font-size: 8px;
+}
+.main-middle h3 {
+  font-size: 15px;
+}
+video {
+  height: 250px;
+  width: 100%;
+}
+.video-text {
+  bottom: -130%;
+  left: 42%;
+}
+i {
+  font-size: 30px;
+}
